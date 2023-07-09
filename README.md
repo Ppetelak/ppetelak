@@ -21,10 +21,10 @@ Procurei também sempre atender as demandas de forma clara, objetivo propondo so
 
 Aqui estão algumas das tecnologias com as quais tenho experiência:
 
-- Linguagens de Programação: ![Linguagem1](https://img.shields.io/badge/Linguagem1-%2300f.svg) ![Linguagem2](https://img.shields.io/badge/Linguagem2-%2300f.svg)
-- Frameworks: ![Framework1](https://img.shields.io/badge/Framework1-%23ff69b4.svg) ![Framework2](https://img.shields.io/badge/Framework2-%23ff69b4.svg)
-- Bancos de Dados: ![Banco1](https://img.shields.io/badge/Banco1-%23008080.svg) ![Banco2](https://img.shields.io/badge/Banco2-%23008080.svg)
-- Outras ferramentas: ![Ferramenta1](https://img.shields.io/badge/Ferramenta1-%23ff6347.svg) ![Ferramenta2](https://img.shields.io/badge/Ferramenta2-%23ff6347.svg)
+- Linguagens de Programação: ![Java](https://img.shields.io/badge/Linguagem1-%2300f.svg) ![JS](https://img.shields.io/badge/Linguagem2-%2300f.svg)
+- Frameworks: ![Bootstrap](https://img.shields.io/badge/Framework1-%23ff69b4.svg) ![Taiwind](https://img.shields.io/badge/Framework2-%23ff69b4.svg)
+- Bancos de Dados: ![MySQL](https://img.shields.io/badge/Banco1-%23008080.svg) ![Oracle](https://img.shields.io/badge/Banco2-%23008080.svg)
+- Outras ferramentas: ![Figma](https://img.shields.io/badge/Ferramenta1-%23ff6347.svg) ![Pacote Adobe(PS, AI](https://img.shields.io/badge/Ferramenta2-%23ff6347.svg)
 
 ## Experiência
 
