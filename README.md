@@ -28,21 +28,26 @@ Aqui estão algumas das tecnologias com as quais tenho experiência:
 
 ## Experiência
 
-- Empresa 1 (Cargo): Período de trabalho
-  - Descrição das responsabilidades e conquistas
+- Mídia Ideal (Head Desenvolvimento Web): Atualmente
+  - Supervisionando e atuando diretamente no desenvolvimento de soluções para diversas empresas do grupo da área de saúde suplementar, buscando sempre atender as principais demandas do grupo em diversas áreas do Webdesign:
 
-- Empresa 2 (Cargo): Período de trabalho
-  - Descrição das responsabilidades e conquistas
+*Landing Pages
+*Websites
+*Sistemas internos
+*Manutenção nos sites existentes
+
+Usando o conhecimento e expertise para gerir uma equipe e alinhar demandas com os clientes do grupo.
+
+- Idea Of Now (Proprietário): Atualmente
+  - Minha agência de marketing, focada no desenvolvimento de websites e landing pages, mas também desenvolvendo toda parte de criação de identidade visual, campanhas de lançamento, tráfego pago, gestão de redes sociais, outbound marketing, inboundmarketing.
 
 ## Estudos
 
 Curso superior completo em Análise e deseonvolvimento de sistemas!
 
-- Curso 1: [Link para o curso]
-- Curso 2: [Link para o curso]
 
 ## Contato
 
 - Email: p.petelak@gmail.com ![Email](https://img.shields.io/badge/-Email-%23ffcc66.svg)
-- LinkedIn: [[Seu perfil no LinkedIn](https://br.linkedin.com/in/pablopetelak)] ![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077b5.svg)
-- Website: [Seu website pessoal] ![Website](https://img.shields.io/badge/-Website-%231aaf5d.svg)
+- LinkedIn: [[Clique aqui](https://br.linkedin.com/in/pablopetelak)] ![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077b5.svg)
+- Website: [[Clique aqui](https://pablopetelak.com)] ![Website](https://img.shields.io/badge/-Website-%231aaf5d.svg)
