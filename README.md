@@ -1,6 +1,6 @@
 # Seu Nome
 
-[![Sua Foto](caminho/para/sua/foto.png)](link/para/sua/foto)
+[![Sua Foto](img/DSC_2677.JPG)]()
 
 ## Sobre mim
 
