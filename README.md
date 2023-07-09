@@ -36,13 +36,13 @@ Aqui estão algumas das tecnologias com as quais tenho experiência:
 
 ## Estudos
 
-Além das minhas experiências profissionais, também estou sempre me aprimorando através de estudos autônomos e cursos. Alguns dos meus estudos recentes incluem:
+Curso superior completo em Análise e deseonvolvimento de sistemas!
 
 - Curso 1: [Link para o curso]
 - Curso 2: [Link para o curso]
 
 ## Contato
 
-- Email: seuemail@example.com ![Email](https://img.shields.io/badge/-Email-%23ffcc66.svg)
-- LinkedIn: [Seu perfil no LinkedIn] ![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077b5.svg)
+- Email: p.petelak@gmail.com ![Email](https://img.shields.io/badge/-Email-%23ffcc66.svg)
+- LinkedIn: [[Seu perfil no LinkedIn](https://br.linkedin.com/in/pablopetelak)] ![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077b5.svg)
 - Website: [Seu website pessoal] ![Website](https://img.shields.io/badge/-Website-%231aaf5d.svg)
