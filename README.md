@@ -1,7 +1,7 @@
 # Pablo Petelak
 
 <p align="center">
-  <img src="./img/DSC_2677.JPG" alt="Esse sou eu!" width="200px" />
+  <img src="./img/DSC_2677.JPG" alt="Esse sou eu!" width="200px" align="left"/>
 </p>
 
 ## Sobre mim
