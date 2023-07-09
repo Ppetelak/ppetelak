@@ -1,10 +1,15 @@
-# Seu Nome
+# Pablo Petelak
 
-[![Esse sou eu!](./img/DSC_2677.JPG)]()
+<p align="center">
+  <img src="./img/DSC_2677.JPG" alt="Esse sou eu!" width="200px" />
+</p>
 
 ## Sobre mim
 
-Eu sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia e estou sempre em busca de novos desafios e aprendizados. Minha paixão pela programação me levou a explorar diversas áreas e tecnologias.
+Eu sou um desenvolvedor apaixonado por tecnologia e por solucionar problemas, estou sempre em busca de novos desafios e aprendizados. 
+Minha paixão pela programação me levou a explorar diversas áreas e tecnologias.
+Já atuei em diversas soluções ao longo da minha carreira, sempre me desafiando a desenvolve-las no intuito de resolver problemas.
+Procurei também sempre atender as demandas de forma clara, objetivo propondo soluções que levem menos tempo e sejam eficazes.
 
 ## Tecnologias
 
