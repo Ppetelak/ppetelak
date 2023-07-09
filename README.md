@@ -10,6 +10,9 @@ Eu sou um desenvolvedor apaixonado por tecnologia e por solucionar problemas, es
 Minha paixão pela programação me levou a explorar diversas áreas e tecnologias.
 Já atuei em diversas soluções ao longo da minha carreira, sempre me desafiando a desenvolve-las no intuito de resolver problemas.
 Procurei também sempre atender as demandas de forma clara, objetivo propondo soluções que levem menos tempo e sejam eficazes.
+</br>
+</br>
+</br>
 
 ## Tecnologias
 
