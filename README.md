@@ -13,7 +13,7 @@ Procurei também sempre atender as demandas de forma clara, objetivo propondo so
 
 ## OBJETIVO
 
-Procuro uma empresa sólida para aplocar todo o conhecimento que adquiri ao longo dos anos trabalhando com programação e tecnologia. Busco uma oportunidade de me desenvolver mais ainda tecnicamente e claro usufruir de todos os beneficios que uma vaga na área de desenvolvimento pode proporcionar.
+Procuro uma empresa sólida para aplicar todo o conhecimento que adquiri ao longo dos anos trabalhando com programação e tecnologia. Busco uma oportunidade de me desenvolver mais ainda tecnicamente e claro usufruir de todos os beneficios que uma vaga na área de desenvolvimento pode me proporcionar.
 
 
 ## Tecnologias
