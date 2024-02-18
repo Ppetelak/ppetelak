@@ -4,10 +4,10 @@
 
 ## Sobre mim
 
-Eu sou um desenvolvedor apaixonado por tecnologia e por solucionar problemas, estou sempre em busca de novos desafios e aprendizados. </br>
+Desenvolvedor apaixonado por tecnologia e por solucionar problemas, estou sempre em busca de novos desafios e aprendizados. </br>
 Minha paixão pela programação me levou a explorar diversas áreas e tecnologias.
 Já atuei em diversas soluções ao longo da minha carreira, sempre me desafiando a desenvolve-las no intuito de resolver problemas.</br>
-Procurei também sempre atender as demandas de forma clara, objetivo propondo soluções que levem menos tempo e sejam eficazes.
+Procurei também sempre atender as demandas de forma clara, objetiva propondo soluções que levem menos tempo e sejam eficazes.
 </br>
 </br>
 
